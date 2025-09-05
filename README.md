@@ -33,4 +33,4 @@ Pandas
 ---
 
 # For more:
-[LinkedIn](www.linkedin.com/in/oluwadarasimi-falade-021a59382)
+LinkedIn: www.linkedin.com/in/oluwadarasimi-falade-021a59382
