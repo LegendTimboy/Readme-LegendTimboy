@@ -10,7 +10,7 @@ In this GitHub profile, multiple projects can be found. From Blockchain projects
 - [Coral-Image-Classification](https://github.com/LegendTimboy/Coral-Image-Classification): Using an AI model to classifying coral images.
 - [fs25-artifin-project](https://github.com/LegendTimboy/fs25-artifin-project): Using an AI model to classify and identify breast cancer.
 - [fs25-maitpro-ceveai-project](https://github.com/LegendTimboy/fs25-maitpro-ceveai-project): An AI-powered curriculum vitae (CV) parser platform.
-Other projects carried out but not in git:
+- Other projects carried out but not in Github:
 [Development of a Smart Mirror for the Health Care Sector]
 # Programming Languages/Libraries:
 C++
